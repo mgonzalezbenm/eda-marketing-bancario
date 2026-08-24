@@ -229,8 +229,3 @@ Este es un proyecto académico individual, pero está abierto a sugerencias. Si 
 **María González**
 🔗 [github.com/mgonzalezbenm](https://github.com/mgonzalezbenm)
 
-<div align="center">
-
-⭐ Si este proyecto te ha resultado útil, ¡no dudes en dejar una estrella!
-
-</div>
