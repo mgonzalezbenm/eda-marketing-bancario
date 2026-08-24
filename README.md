@@ -140,13 +140,13 @@ Solo `emp.var.rate` y `euribor3m` muestran una correlación fuerte (0.86), esper
 <td width="50%">
 
 **Tasa de conversión por profesión**
-<img src="imagenes/conversion_por_profesion.png">
+<img src="Imagenes/conversion_por_profesion.png">
 
 </td>
 <td width="50%">
 
 **Tasa de conversión por resultado de campaña anterior**
-<img src="imagenes/conversion_poutcome.png">
+<img src="Imagenes/conversion_poutcome.png">
 
 </td>
 </tr>
@@ -154,13 +154,13 @@ Solo `emp.var.rate` y `euribor3m` muestran una correlación fuerte (0.86), esper
 <td width="50%">
 
 **Matriz de correlación**
-<img src="imagenes/matriz_correlacion.png">
+<img src="Imagenes/matriz_correlacion.png">
 
 </td>
 <td width="50%">
 
 **Distribución de la edad de los clientes**
-<img src="imagenes/distribucion_edad.png">
+<img src="Imagenes/distribucion_edad.png">
 
 </td>
 </tr>
@@ -168,13 +168,13 @@ Solo `emp.var.rate` y `euribor3m` muestran una correlación fuerte (0.86), esper
 <td width="50%">
 
 **Duración de la llamada según conversión**
-<img src="imagenes/duracion_vs_conversion.png">
+<img src="Imagenes/duracion_vs_conversion.png">
 
 </td>
 <td width="50%">
 
 **Tasa de conversión por mes**
-<img src="imagenes/conversion_por_mes.png">
+<img src="Imagenes/conversion_por_mes.png">
 
 </td>
 </tr>
