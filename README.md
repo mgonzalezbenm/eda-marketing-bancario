@@ -140,7 +140,7 @@ Solo `emp.var.rate` y `euribor3m` muestran una correlación fuerte (0.86), esper
 <td width="50%">
 
 **Tasa de conversión por profesión**
-<img src="Imagenes/conversion_por_profesion.png">
+<img src="Proyecto_EDA/Imagenes/conversion_por_profesion.png">
 
 </td>
 <td width="50%">
